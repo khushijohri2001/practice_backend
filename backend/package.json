@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/khushijohri2001/practice_backend#readme",
   "devDependencies": {
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
   }
 }
